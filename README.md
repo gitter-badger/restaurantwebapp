@@ -16,7 +16,7 @@ There are **two different Angular 5 app** with the same structure: a project for
 ##  Web App
 **For a demo of the web app click** [here](https://restaurant-example-d250d.firebaseapp.com/)
 
-|To buy the web site app | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZXUXKGTP2ENZ4) |
+|To buy the web site app | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZXUXKGTP2ENZ4) [![Join the chat at https://gitter.im/restaurantwebapp/Lobby](https://badges.gitter.im/restaurantwebapp/Lobby.svg)](https://gitter.im/restaurantwebapp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
 |:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Overview
