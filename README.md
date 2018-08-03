@@ -3,12 +3,22 @@
 
 <img src="https://img.shields.io/github/stars/amanganiello90/restaurantwebapp.svg">&nbsp;<a href="https://github.com/amanganiello90/restaurantwebapp/issues"><img src="https://img.shields.io/github/issues/amanganiello90/restaurantwebapp.svg"></a>&nbsp;
 
-You can also buy the **ionic app** version on [ionic restaurant app](https://market.ionic.io/starters/ionic-3-restaurant-app-upgraded) and read doc on [ionic app wiki](https://github.com/amanganiello90/ionic3restaurantapp)
+You can also buy the **ionic app** version on [ionic restaurant app](https://market.ionic.io/starters/ionic-3-restaurant-app-upgraded) and read doc on [ionic app wiki](https://github.com/amanganiello90/ionic3restaurantapp).
+There are **two different app** with the same structure: a project for **an admin dashboard** and another for **a web app site**. You can buy separately.
 
-**For the web documentation demo click** [here](https://amanganiello90.github.io/restaurantwebapp/)
+## Dashboard App
+
+**For a demo of the dashboard click** [here](https://restaurant-dash-example.firebaseapp.com)
+
+##  Web App
+**For a demo of the web app click** [here](https://restaurant-example.firebaseapp.com)
 
 
-|To buy the product | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SYASQ3RRPWL4E) |
+|To buy the dashboard | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SYASQ3RRPWL4E) |
+|:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+|To buy the web site app | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SYASQ3RRPWL4E) |
 |:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Overview
@@ -25,6 +35,12 @@ directories:
       third-party licenses.
 	* [documentation]
       Includes the documentation html page.
+      
+Firebase integration
+========
+Every App uses firebase backend. Therefore, you have to register on [firebase](https://firebase.google.com/).
+There is a realtime db and api. The app use a json file as db that you can retrieve from firebase with a get call specifying https://[PROJECT_ID].firebaseio.com/.json , where PROJECT_ID is the id assigned when you create a project on firebase.
+See [here](https://dev.to/aurelkurtula/introduction-to-firebases-real-time-database-89l) specially to set db rules in order to read and write on db with api.
 
 Brief installation guide
 ------------------------
@@ -38,6 +54,10 @@ STEPS TO USE
 ========
 * enter in the project folder
 * npm install
+* Then ```npm start``` to view on your local browser the app
+* If you want to only build in Angular dev mode and generate the app in dist folder ```npm run build.dev```
+* If you want to only build in Angular prod mode and generate the app in dist folder ```npm run build.prod```
+* After build you can host your app in firebase with [firebase cli](https://firebase.google.com/docs/hosting/). Remember to select hosting option and single page app type.
 
 
 Problems/Questions
