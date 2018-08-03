@@ -4,19 +4,17 @@
 <img src="https://img.shields.io/github/stars/amanganiello90/restaurantwebapp.svg">&nbsp;<a href="https://github.com/amanganiello90/restaurantwebapp/issues"><img src="https://img.shields.io/github/issues/amanganiello90/restaurantwebapp.svg"></a>&nbsp;
 
 You can also buy the **ionic app** version on [ionic restaurant app](https://market.ionic.io/starters/ionic-3-restaurant-app-upgraded) and read doc on [ionic app wiki](https://github.com/amanganiello90/ionic3restaurantapp).
-There are **two different app** with the same structure: a project for **an admin dashboard** and another for **a web app site**. You can buy separately.
+There are **two different Angular 5 app** with the same structure: a project for **an admin dashboard** and another for **a web app site**. You can buy separately.
 
 ## Dashboard App
 
 **For a demo of the dashboard click** [here](https://restaurant-dash-example.firebaseapp.com)
 
-##  Web App
-**For a demo of the web app click** [here](https://restaurant-example.firebaseapp.com)
-
-
 |To buy the dashboard | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SYASQ3RRPWL4E) |
 |:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+##  Web App
+**For a demo of the web app click** [here](https://restaurant-example.firebaseapp.com)
 
 |To buy the web site app | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SYASQ3RRPWL4E) |
 |:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
