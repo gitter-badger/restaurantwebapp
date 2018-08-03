@@ -10,13 +10,13 @@ There are **two different Angular 5 app** with the same structure: a project for
 
 **For a demo of the dashboard click** [here](https://restaurant-dash-example.firebaseapp.com)
 
-|To buy the dashboard | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SYASQ3RRPWL4E) |
+|To buy the dashboard | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B33SPCXKDCSMW) |
 |:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ##  Web App
-**For a demo of the web app click** [here](https://restaurant-example.firebaseapp.com)
+**For a demo of the web app click** [here](https://restaurant-example-d250d.firebaseapp.com/)
 
-|To buy the web site app | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SYASQ3RRPWL4E) |
+|To buy the web site app | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZXUXKGTP2ENZ4) |
 |:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Overview
